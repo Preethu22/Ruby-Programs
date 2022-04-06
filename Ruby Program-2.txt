@@ -190,6 +190,7 @@ else
     puts "The is not Armstrong"
 end
 
+
 # program to reverse a string
 Syntax:str.reverse
 Puts”preethu”.reverse
